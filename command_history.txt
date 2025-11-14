@@ -1,0 +1,2 @@
+/gamemode survival
+/tpa Ling_nine

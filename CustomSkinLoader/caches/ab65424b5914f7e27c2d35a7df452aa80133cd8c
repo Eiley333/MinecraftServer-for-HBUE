@@ -1,0 +1,9 @@
+{
+  "id" : "547a52da90514507afc277d7027efc13",
+  "name" : "Annihilation",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2MzEwOTU5OTUwOSwKICAicHJvZmlsZUlkIiA6ICI1NDdhNTJkYTkwNTE0NTA3YWZjMjc3ZDcwMjdlZmMxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbm5paGlsYXRpb24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGUzMThjYmI5ODc5MGJjYzBmZTlhOTU4YjQwYjRhYTI2NGNjMzU0NDk5YWY4NWQ2OWFlMDUzZjg2MzY4NDZkMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

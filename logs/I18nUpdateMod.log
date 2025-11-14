@@ -1,0 +1,16 @@
+[2025-11-14 16:39:32] [INFO]: I18nUpdate Mod 3.7.0 is loaded in 1.21.1 with Fabric
+[2025-11-14 16:39:32] [DEBUG]: Minecraft path: D:\Minecraft\PCL\.minecraft\versions\湖经Minecraft万事屋
+[2025-11-14 16:39:32] [DEBUG]: Local Storage Pos: C:\Users\Annihilation
+[2025-11-14 16:39:34] [INFO]: Using fastest url: http://8.137.167.65:64684/
+[2025-11-14 16:39:34] [DEBUG]: Using asset root: http://8.137.167.65:64684/
+[2025-11-14 16:39:34] [DEBUG]: C:\Users\Annihilation\.i18nupdatemod\1.21\Minecraft-Mod-Language-Modpack-1-21-Fabric.zip md5: F847359AEA78E13514A9F359D160B2AA, remote md5: F847359AEA78E13514A9F359D160B2AA
+[2025-11-14 16:39:34] [DEBUG]: Already up to date.
+[2025-11-14 16:39:34] [DEBUG]: C:\Users\Annihilation\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20-Fabric.zip md5: 660A760AB84B610E5FFB4739B0B7BA38, remote md5: 660A760AB84B610E5FFB4739B0B7BA38
+[2025-11-14 16:39:34] [DEBUG]: Already up to date.
+[2025-11-14 16:39:36] [DEBUG]: C:\Users\Annihilation\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip md5: 3005AB53E7823372692703ED73510309, remote md5: 3005AB53E7823372692703ED73510309
+[2025-11-14 16:39:36] [DEBUG]: Already up to date.
+[2025-11-14 16:39:36] [INFO]: Converting: C:\Users\Annihilation\.i18nupdatemod\1.21\Minecraft-Mod-Language-Modpack-1-21-Fabric.zip
+[2025-11-14 16:39:36] [INFO]: Converting: C:\Users\Annihilation\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20-Fabric.zip
+[2025-11-14 16:39:36] [INFO]: Converting: C:\Users\Annihilation\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip
+[2025-11-14 16:39:36] [INFO]: Converted: [C:\Users\Annihilation\.i18nupdatemod\1.21\Minecraft-Mod-Language-Modpack-1-21-Fabric.zip, C:\Users\Annihilation\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20-Fabric.zip, C:\Users\Annihilation\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip] -> C:\Users\Annihilation\.i18nupdatemod\1.21.1\Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip
+[2025-11-14 16:39:36] [INFO]: Synchronized: C:\Users\Annihilation\.i18nupdatemod\1.21.1\Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip -> D:\Minecraft\PCL\.minecraft\versions\湖经Minecraft万事屋\resourcepacks\Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip
